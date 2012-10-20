@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/black.bmp</file>
+        <file>resource/image/chessboard.bmp</file>
+        <file>resource/image/dota_background.bmp</file>
+        <file>resource/image/white.bmp</file>
+    </qresource>
+</RCC>
